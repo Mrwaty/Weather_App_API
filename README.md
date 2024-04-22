@@ -1,5 +1,5 @@
 # Weather_App-with-API
-Bei diesem Projekt handelt es sich um ein aktuelles Wetterbericht-App.
+Bei diesem Projekt handelt es sich um eine aktuelle Wetterbericht-Applikation.
 Das Programm bietet an, ein Land von drei Länder (Niederlande, Türkei oder USA) auszuwählen. Je nach ausgewähltem Land werden die Provinzen/Städte nach der Einwohnerzahl aufgelistet.
 Mit der Option „Stadtsuche“ im Programm können Stadtinformationen (Provinzen, Land, Einwohnerzahl) und aktuellen Wetterbedingungen (das Wetter und die Temperatur) angezeigt werden, indem der Name einer Stadt in der Suchmaschine geschrieben wird.
 
