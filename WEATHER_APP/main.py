@@ -7,7 +7,6 @@ from PyQt5.QtGui import QPixmap, QCursor
 
 from weather_design import Ui_Dialog
 
-print()
 
 class Main(QDialog, Ui_Dialog):
     def __init__(self):
